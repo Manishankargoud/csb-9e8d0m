@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://manishankargoud.github.io/csb-9e8d0m/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://manishankargoud.github.io/csb-9e8d0m/static/js/main.5085d54b.chunk.js",
+    "main.js.map": "https://manishankargoud.github.io/csb-9e8d0m/static/js/main.5085d54b.chunk.js.map",
+    "runtime-main.js": "https://manishankargoud.github.io/csb-9e8d0m/static/js/runtime-main.dea97855.js",
+    "runtime-main.js.map": "https://manishankargoud.github.io/csb-9e8d0m/static/js/runtime-main.dea97855.js.map",
+    "static/js/2.7b24b9ca.chunk.js": "https://manishankargoud.github.io/csb-9e8d0m/static/js/2.7b24b9ca.chunk.js",
+    "static/js/2.7b24b9ca.chunk.js.map": "https://manishankargoud.github.io/csb-9e8d0m/static/js/2.7b24b9ca.chunk.js.map",
+    "index.html": "https://manishankargoud.github.io/csb-9e8d0m/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://manishankargoud.github.io/csb-9e8d0m/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7b24b9ca.chunk.js.LICENSE.txt": "https://manishankargoud.github.io/csb-9e8d0m/static/js/2.7b24b9ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dea97855.js",
+    "static/js/2.7b24b9ca.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5085d54b.chunk.js"
+  ]
+}
